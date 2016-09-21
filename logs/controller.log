@@ -51,3 +51,7 @@
 [2016-09-21 20:31:55,400] DEBUG [Controller 0]: preferred replicas by broker Map(0 -> Map([TutorialTopic,0] -> List(0))) (kafka.controller.KafkaController)
 [2016-09-21 20:31:55,400] DEBUG [Controller 0]: topics not in preferred replica Map() (kafka.controller.KafkaController)
 [2016-09-21 20:31:55,401] TRACE [Controller 0]: leader imbalance ratio for broker 0 is 0.000000 (kafka.controller.KafkaController)
+[2016-09-21 20:36:55,400] TRACE [Controller 0]: checking need to trigger partition rebalance (kafka.controller.KafkaController)
+[2016-09-21 20:36:55,400] DEBUG [Controller 0]: preferred replicas by broker Map(0 -> Map([TutorialTopic,0] -> List(0))) (kafka.controller.KafkaController)
+[2016-09-21 20:36:55,400] DEBUG [Controller 0]: topics not in preferred replica Map() (kafka.controller.KafkaController)
+[2016-09-21 20:36:55,401] TRACE [Controller 0]: leader imbalance ratio for broker 0 is 0.000000 (kafka.controller.KafkaController)
